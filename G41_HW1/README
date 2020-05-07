@@ -1,0 +1,8 @@
+Running instructions: 
+
+1. Unzip the submission file 
+2. Open hw1.R in Rstudio or any other ide for R
+3. Make sure plyr is installed 
+4. Make sure you load the hw1.R in hw1_checker.R file   
+5. Run the script 
+6. Verify the output
